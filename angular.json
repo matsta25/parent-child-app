@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "parent-child-app"
+    }
+  },
+  "defaultProject": "parent-child-app",
+  "cli": {
+    "analytics": "f17d3387-5e52-4c4c-9041-09859dcba5ce"
+  }
 }
